@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @phought
+- 👀 I’m interested in neonatology, the gut microbiome, growth, nutrition and micronutrients
+- 🌱 I’m currently learning how to code and use R
